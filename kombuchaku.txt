@@ -1,5 +1,9 @@
 kombuchaku resolusi
 - buat website
 - buat menu
+*menu online
+*menu offline
 - membuat rumah kombuchaku
 - membuat video pemasaran
+- membuat katalog
+- menyebarkan katalog ke kafe-kafe
