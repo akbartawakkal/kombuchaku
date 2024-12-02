@@ -3,3 +3,5 @@ kombuchaku resolusi
 - buat menu
 - membuat rumah kombuchaku
 - membuat video pemasaran
+- membuat katalog
+- menyebarkan katalog ke kafe-kafe
